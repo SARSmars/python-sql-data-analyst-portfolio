@@ -1,0 +1,9 @@
+Summary Table of Key NumPy Concepts
+Concept	Example Code Snippet
+Create array from list	np.array([1,[2][3])
+Element-wise operations	a + b, a * b
+Multidimensional arrays	np.array([[1][2],[3,[4]])
+Indexing & slicing	arr[1:4], arr2d[0, :]
+Reshape	arr.reshape(3, 2)
+Convert to list	arr.tolist()
+File I/O	np.savetxt('f.txt', arr), np.loadtxt('f.txt')

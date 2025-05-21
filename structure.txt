@@ -1,0 +1,50 @@
+/README.md                        ← Overview of your entire portfolio
+/LICENSE                          ← (Optional) Choose a license (e.g., MIT)
+/requirements.txt                 ← (Optional) Python dependencies (for projects)
+/assets/                          ← Images for README/project visualizations
+
+/01_Python_Libraries/             ← Learning notebooks
+    - 01_numpy_basics.ipynb
+    - 02_pandas_eda.ipynb
+    - 03_matplotlib_seaborn.ipynb
+    - 04_datetime_handling.ipynb
+    - 05_data_cleaning_with_pandas.ipynb
+
+/02_SQL_Practice/
+    - beginner_queries.sql
+    - intermediate_joins.sql
+    - advanced_window_functions.sql
+    - case_study_retail_db.sql
+    - README.md
+
+/03_Data_Visualization/
+    - tableau_dashboard_1.png
+    - powerbi_sales_dashboard.pbix
+    - matplotlib_visuals.ipynb
+    - seaborn_trends.ipynb
+    - README.md
+
+/04_Projects/
+    /01_Sales_Analysis/
+        - sales_analysis.ipynb
+        - sales_dataset.csv
+        - visuals/
+        - README.md
+    /02_Customer_Segmentation/
+        - segmentation_kmeans.ipynb
+        - customers_data.csv
+        - README.md
+    /03_Employee_Attrition/
+        - attrition_predictor.ipynb
+        - HR_dataset.csv
+        - README.md
+    /04_Web_Scraping_JobTrends/
+        - job_trends_scraper.ipynb
+        - scraped_jobs.csv
+        - README.md
+
+/05_Resume_and_Certificates/
+    - Resume_Data_Analyst.pdf
+    - Google_Data_Analytics_Certificate.pdf
+    - SQL_Advanced_Cert.pdf
+    - README.md
